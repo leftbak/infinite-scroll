@@ -1,10 +1,5 @@
-Unfortunately this project is **no longer maintained**. 
+This is a fork of <https://github.com/infinite-scroll/infinite-scroll/> fixing some bugs and improving its performance for my personal use.
 
-It's had strong contributors over the years but it's time to clearly set expectations.  We are unlikely to ship a new version, add features or fix bugs.
-
-IMO, the only way forward with this project is a 100% rewrite with a new API. If you're interested in owning that, please get in touch. ~ @paulirish, april 2015
-
-PS. Thank you very much to all the [contributors](https://github.com/infinite-scroll/infinite-scroll/graphs/contributors) over the years. It's been a fun time helping the internet scroll their way to more good stuff. :)
 
 <hr>
 
@@ -138,7 +133,7 @@ $('.selector').infinitescroll({
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Paul Irish
+Copyright (c) 2016 Mike MacDowell
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
